@@ -1,4 +1,4 @@
-const caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+~`|}{[]\:;?><,./-=";
+const caracteres = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@#";
 const senhaInput = document.getElementById("senha");
 const gerarBtn = document.getElementById("gerar");
 const copiarBtn = document.getElementById("copiar");

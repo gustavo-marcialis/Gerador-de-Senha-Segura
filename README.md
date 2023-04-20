@@ -8,18 +8,18 @@
   
  ## 🚀 Instalando o Gerador de Senhas
   
- Para instalar a Gerador de Senhas, siga estas etapas: 
+ Para instalar o Gerador de Senhas, siga estas etapas: 
   
   Para executar o projeto, você pode baixar os arquivos do repositório Git e abri-los em seu editor de código favorito. O projeto inclui os seguintes arquivos:
   
   - index.html: Este arquivo contém a estrutura HTML do projeto, incluindo os elementos de formulário e as tags de script para vincular o arquivo JavaScript.
   - style.css: Este arquivo contém uma folha de estilo CSS para o projeto. Ele inclui estilos para o layout do projeto, incluindo cores, fontes, tamanhos de texto e outros elementos de design.
-  - script.js: Este arquivo contém o código JavaScript que faz gera as senhas.
+  - script.js: Este arquivo contém o código JavaScript que gera as senhas.
   
   
- ## ☕ Usando a Gerador de Senhas
+ ## ☕ Usando o Gerador de Senhas
   
- Para usar a Gerador de Senhas, siga estas etapas: 
+ Para usar o Gerador de Senhas, siga estas etapas: 
   
  - Após baixar a pasta do projeto em seu computador, abra o arquivo index.html em seu navegador;
  - Clique no botão "Gerar Senha";

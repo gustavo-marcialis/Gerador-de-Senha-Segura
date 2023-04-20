@@ -1,28 +1,42 @@
-# 💫 Gerador de Senha Segura
-[Imagem da Página](imagem.png)
-[Ver Ao Vivo](http://geradordesenha.gustavomarcialis.epizy.com/?i=1)
+# Gerador de Senhas
+  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  
+  
+ > Este projeto é um gerador de senhas seguras desenvolvido com HTML, CSS e JavaScript. Foram utilizadas técnicas de CSS flex-box para alinhamento dos itens na página e conceitos de JavaScript DOM para geração de senhas.
+  
+  
+ ## 🚀 Instalando a Gerador de Senhas
+  
+ Para instalar a Gerador de Senhas, siga estas etapas: 
+  
+  Para executar o projeto, você pode baixar os arquivos do repositório Git e abri-los em seu editor de código favorito. O projeto inclui os seguintes arquivos:
+  
+  - index.html: Este arquivo contém a estrutura HTML do projeto, incluindo os elementos de formulário e as tags de script para vincular o arquivo JavaScript.
+  - style.css: Este arquivo contém uma folha de estilo CSS para o projeto. Ele inclui estilos para o layout do projeto, incluindo cores, fontes, tamanhos de texto e outros elementos de design.
+  - script.js: Este arquivo contém o código JavaScript que faz gera as senhas.
+  
+  
+ ## ☕ Usando a Gerador de Senhas
+  
+ Para usar a Gerador de Senhas, siga estas etapas: 
+  
+ - Após baixar a pasta do projeto em seu computador, abra o arquivo index.html em seu navegador;
+ - Clique no botão "Gerar Senha";
+ - A senha será gerada no input acima;
+- Copie a senha manualmente ou clique no botão "Copiar senha";
+- A senha gerada segue os principais parâmetros de segurança (12 caracteres, letras maiúsculas, letras minúsculas, números e caracteres especiais. As senhas não formam nenhuma palavra do dicionário também, o que aumenta ainda mais a segurança.
+- Indicamos aumentar a segurança utilizando autenticação de dois fatores por aplicativo (não use email nem SMS) e salvando as senhas em um gerenciador de senhas para não esquecer. Use uma senha para cada cadastro nas redes.
+ 
+  
+ ## 📫 Contribuindo para o Gerador de Senhas 
 
-# 💻 Resumo:
-Este é um projeto de gerador de senha segura feito com HTML semântico, CSS e JavaScript.
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-[Programa Funcionando](imagem.png)
-
-# 💻 Funcionalidades
-•Gera uma senha aleatória com caracteres maiúsculos, minúsculos, números e símbolos;
-•Copia a senha gerada para a área de transferência com um clique no botão "Copiar".
-
-## 💻 Como Usar
-1 - Abra o arquivo "index.html" em um navegador da web.
-2 - Clique no botão "Gerar Senha" para gerar uma senha aleatória.
-3 - Clique no botão "Copiar" para copiar a senha gerada para a área de transferência.
-4 - Cole a senha onde desejar.
-
-## 💻 Personalização
-•Para alterar a quantidade de caracteres da senha gerada, altere a constante SENHA_COMPRIMENTO no arquivo "script.js". 
-•Para alterar os caracteres usados na senha gerada, altere as constantes CARACTERES_MAIUSCULOS, CARACTERES_MINUSCULOS, CARACTERES_NUMEROS e CARACTERES_SIMBOLOS no arquivo "script.js".
-•Para personalizar o estilo da página, altere o arquivo "style.css".
-
-## 💻 Suporte a Dispositivos Móveis
-Este projeto tem suporte a dispositivos móveis. O estilo da página é ajustado automaticamente para dispositivos com largura de tela menor que 600 pixels.
+ Para contribuir com o Gerador de Senhas, siga estas etapas: 
+  
+ 1. Bifurque este repositório. 
+ 2. Crie um branch: `git checkout -b <nome_branch>`. 
+ 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'` 
+ 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>` 
+ 5. Crie a solicitação de pull. 
+  
+ Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). 

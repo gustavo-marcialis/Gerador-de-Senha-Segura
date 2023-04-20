@@ -6,7 +6,7 @@
  > Este projeto é um gerador de senhas seguras desenvolvido com HTML, CSS e JavaScript. Foram utilizadas técnicas de CSS flex-box para alinhamento dos itens na página e conceitos de JavaScript DOM para geração de senhas.
   
   
- ## 🚀 Instalando a Gerador de Senhas
+ ## 🚀 Instalando o Gerador de Senhas
   
  Para instalar a Gerador de Senhas, siga estas etapas: 
   

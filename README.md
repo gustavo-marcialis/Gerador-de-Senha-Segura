@@ -19,13 +19,13 @@
   
  ## ☕ Usando o Gerador de Senhas
   
- Para usar o Gerador de Senhas, siga estas etapas: 
+ Para usar o Gerador de Senhas, [Clique Aqui](https://geradordesenhas.bohr.io/) ou siga estas etapas: 
   
  - Após baixar a pasta do projeto em seu computador, abra o arquivo index.html em seu navegador;
  - Clique no botão "Gerar Senha";
  - A senha será gerada no input acima;
 - Copie a senha manualmente ou clique no botão "Copiar senha";
-- A senha gerada segue os principais parâmetros de segurança (12 caracteres, letras maiúsculas, letras minúsculas, números e caracteres especiais. As senhas não formam nenhuma palavra do dicionário também, o que aumenta ainda mais a segurança.
+- A senha gerada segue os principais parâmetros de segurança (16 caracteres, letras maiúsculas, letras minúsculas, números e caracteres especiais. As senhas não formam nenhuma palavra do dicionário também, o que aumenta ainda mais a segurança.
 - Indicamos aumentar a segurança utilizando autenticação de dois fatores por aplicativo (não use email nem SMS) e salvando as senhas em um gerenciador de senhas para não esquecer. Use uma senha para cada cadastro nas redes.
  
   

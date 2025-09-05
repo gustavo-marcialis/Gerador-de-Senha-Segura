@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const generateButton = document.getElementById('generateButton');
     const copyButton = document.getElementById('copyButton');
     const passwordOutput = document.getElementById('passwordOutput');
+    const copyAlert = document.getElementById('copyAlert');
 
     const generatePassword = () => {
         const lowercaseChars = 'abcdefghijklmnopqrstuvwxyz';
@@ -29,7 +30,15 @@ document.addEventListener('DOMContentLoaded', () => {
         if (passwordOutput.value) {
             try {
                 await navigator.clipboard.writeText(passwordOutput.value);
-                alert('Senha copiada para a área de transferência!');
+                // Exibe o alerta de sucesso
+                copyAlert.classList.remove('opacity-0');
+                copyAlert.classList.add('opacity-100');
+
+                // Esconde o alerta após 2 segundos
+                setTimeout(() => {
+                    copyAlert.classList.remove('opacity-100');
+                    copyAlert.classList.add('opacity-0');
+                }, 2000);
             } catch (err) {
                 console.error('Falha ao copiar a senha: ', err);
             }
